@@ -5,10 +5,11 @@ A passionate FullStack Developer from India
 - 🌱 I’m currently learning DevOps
 
 -  💬 Ask me about Java , SpringBoot,Microservices
-
+   
  ### 📬 How to Reach Me:
 - Email   : [ridhimishra2015@gmail.com](mailto:ridhimishra2015@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/ridhimishra
+- ⚡ Fun fact I am Funny
     
  ## 🛠️ **Tech Stack**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -18,7 +19,7 @@ A passionate FullStack Developer from India
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- ⚡ Fun fact I am Funny
+
  
  
 
