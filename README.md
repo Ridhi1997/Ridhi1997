@@ -1,13 +1,13 @@
 ## Hi 👋 I'm Ridhi Mishra
-## A passionate FullStack Developer from India
+A passionate FullStack Developer from India
 
-## 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning DevOps
 
-## 💬 Ask me about Java , SpringBoot,Microservices
+-  💬 Ask me about Java , SpringBoot,Microservices
 
-## 📫 How to reach me ridhimishra2015@gmail.com
+- 📫 How to reach me ridhimishra2015@gmail.com
 
-## ⚡ Fun fact I am Funny**
+- ⚡ Fun fact I am Funny
 
 <!--
 **Ridhi1997/Ridhi1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
