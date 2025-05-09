@@ -1,25 +1,26 @@
 <h1 align="center">🚀 Welcome to My GitHub Profile!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Ridhi+Mishra;Full-Stack+Developer+from+India;Java+%7C+SpringBoot+%7C+DevOps+Explorer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Ridhi+Mishra;Full-Stack+Developer+from+India;Java+%7C+SpringBoot+%7C+Microservices" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ridhimishra&label=Profile+Views&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ridhimishra&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🔭 Passionate **Full-Stack Developer**
-- 🌱 Learning **DevOps, Cloud, Kafka & Kubernetes**
-- 💬 Ask me about `Java`, `Spring Boot`, `Microservices`
-- ✨ Fun Fact: *I bring clean code and good vibes 💃*
+- 💻 Full-Stack Developer based in 🇮🇳 India  
+- 🌱 Currently diving into **DevOps & Cloud Technologies**  
+- 💬 Ask me about `Java`, `Spring Boot`, `Microservices`  
+- 🎯 Focused on writing clean, scalable, and efficient code  
+- ⚡ Fun Fact: *I can debug and dance at the same time 😄*
 
 ---
 
-### 📬 Let's Connect
+### 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-ridhimishra2015@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ridhimishra2015@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ridhi%20Mishra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ridhimishra)
@@ -28,12 +29,16 @@
 
 ### 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+#### 💻 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
+
+#### 🧰 Tools & Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -43,24 +48,7 @@
   <img src="docs/kafka-architecture.png" alt="Kafka Architecture" width="600"/>
 </p>
 
-> I use **Apache Kafka** for building real-time streaming and asynchronous microservices.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridhimishra&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhimishra&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-### 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ridhimishra&theme=dark" alt="GitHub Streak" />
-</p>
+> Kafka is used here to enable real-time communication and asynchronous messaging between microservices.
 
 ---
 
@@ -72,44 +60,42 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ridhimishra/ridhimishra/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ridhimishra&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhimishra&layout=compact&theme=tokyonight" height="160px"/>
 </p>
 
 ---
 
-### 📍 GitHub Global Visitor Map
+### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://api.visitor-badge.io/api/visitors?path=ridhimishra%2Freadme&label=Visitors&labelColor=%230073e6&countColor=%23ffa500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ridhimishra&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
 ---
 
-### ✍️ Latest Blog Posts *(optional)*
+### 🌟 Pinned Projects
 
-<!-- BLOG-POST-LIST:START -->
-- [Post 1 Title](https://yourblog.com/post1)
-- [Post 2 Title](https://yourblog.com/post2)
-<!-- BLOG-POST-LIST:END -->
-
-> _Auto-updating blog list powered by GitHub Actions_  
-> 📝 *Set up using [dev.to](https://dev.to/) or [Medium RSS feed](https://github.com/gautamkrishnar/blog-post-workflow)*
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ridhi1997&repo=SpringBoot_Caffeine_Caching&theme=radical)](https://github.com/Ridhi1997/SpringBoot_Caffeine_Caching)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ridhimishra&repo=another-repo-name&theme=radical)](https://github.com/ridhimishra/another-repo-name)
 
 ---
 
-### 💻 Recent Projects
+### 🧠 Currently Learning
 
-[![My Project](https://github-readme-stats.vercel.app/api/pin/?username=ridhimishra&repo=your-repo&theme=tokyonight)](https://github.com/ridhimishra/your-repo)
-[![Another Project](https://github-readme-stats.vercel.app/api/pin/?username=ridhimishra&repo=your-second-repo&theme=tokyonight)](https://github.com/ridhimishra/your-second-repo)
+- ☁️ **CI/CD** (GitHub Actions, Jenkins)  
+- ☸️ **Kubernetes** and container orchestration  
+- 🔄 **Kafka Streams & Event-driven Architecture**  
+- 📊 Monitoring tools like **Prometheus** and **Grafana**
 
 ---
 
-### ⌛ Wakatime Stats *(Optional if you use [Wakatime](https://wakatime.com/))*
+### 💡 Quote of the Day
 
-```txt
-🕒 WakaTime Weekly Stats
-Java         12 hrs 30 mins ████████████████░░░░░
-Spring Boot   5 hrs 10 mins ███████░░░░░░░░░░░░░░
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+
+---
+
