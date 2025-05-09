@@ -72,7 +72,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ridhi1997&theme=highcontrast" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ridhi1997&theme=highcontrast" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -80,7 +80,7 @@
 ### 🌟 Pinned Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ridhi1997&repo=SpringBoot_Caffeine_Caching&theme=radical)](https://github.com/Ridhi1997/SpringBoot_Caffeine_Caching)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ridhi1997&repo=another-repo-name&theme=radical)](https://github.com/Ridhi1997/drools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ridhi1997&repo=drools&theme=radical)](https://github.com/Ridhi1997/drools)
 
 ---
 
@@ -95,7 +95,7 @@
 
 ### 💡 Quote of the Day
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+> *“Code is like humor. When you have to explain it, it’s bad.”* –Ridhi Mishra
 
 ---
 
