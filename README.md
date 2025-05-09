@@ -55,7 +55,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ridhimishra&theme=radical&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ridhi1997&theme=radical&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest" />
 </p>
 
 ---
@@ -63,8 +63,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridhimishra&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhimishra&layout=compact&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ridhi1997&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridhi1997&layout=compact&theme=tokyonight" height="160px"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ridhimishra&theme=highcontrast" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ridhi1997&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
 ---
@@ -80,7 +80,7 @@
 ### 🌟 Pinned Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ridhi1997&repo=SpringBoot_Caffeine_Caching&theme=radical)](https://github.com/Ridhi1997/SpringBoot_Caffeine_Caching)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ridhimishra&repo=another-repo-name&theme=radical)](https://github.com/ridhimishra/another-repo-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ridhi1997&repo=another-repo-name&theme=radical)](https://github.com/Ridhi1997/another-repo-name)
 
 ---
 
