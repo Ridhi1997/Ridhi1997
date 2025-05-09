@@ -1,11 +1,11 @@
 <h1 align="center">🚀 Welcome to My GitHub Profile!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Ridhi+Mishra;Full-Stack+Developer+from+India;Java+%7C+SpringBoot+%7C+Microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Ridhi+Mishra;Full-Stack+Developer+from+India" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ridhimishra&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ridhi1997&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
@@ -68,14 +68,7 @@
 </p>
 
 ---
-
-### 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ridhi1997&theme=highcontrast" alt="GitHub Streak"/>
-</p>
-
----
+ 
 
 ### 🌟 Pinned Projects
 
