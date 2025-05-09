@@ -80,7 +80,7 @@
 ### 🌟 Pinned Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ridhi1997&repo=SpringBoot_Caffeine_Caching&theme=radical)](https://github.com/Ridhi1997/SpringBoot_Caffeine_Caching)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ridhi1997&repo=another-repo-name&theme=radical)](https://github.com/Ridhi1997/another-repo-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ridhi1997&repo=another-repo-name&theme=radical)](https://github.com/Ridhi1997/drools)
 
 ---
 
